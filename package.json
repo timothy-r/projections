@@ -1,0 +1,22 @@
+{
+  "name": "projections",
+  "version": "1.0.0",
+  "description": "Event store code",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:timothy-r/projections.git"
+  },
+  "author": "Tim Rodger tim.rodger@gmail.com",
+  "dependencies": {
+    "async": "~1.5.2",
+    "node-uuid": "^1.4.7",
+    "request": "~2.49.0",
+    "underscore": "~1.8.*",
+    "winston": "~2.1.1"
+  },
+  "devDependencies": {
+    "should": "~4.3.0",
+    "mocha": "~2.0.1"
+  }
+}
